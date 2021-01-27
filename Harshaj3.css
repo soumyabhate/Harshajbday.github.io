@@ -1,0 +1,14 @@
+body{
+	background-image: url("buchka1.png");
+	background-position-x: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#image{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+p{
+    font-family: Potta One, cursive;
+}
